@@ -1,10 +1,17 @@
 # info1
-Collection of exercises of "Fondamenti di Informatica", first course of programming at Politecnico di Milano
+Collection of exercises of "Fondamenti di Informatica", first course of programming at Politecnico di Milano.
+
+You will find the specific of each exercise in the first comment.
 
 (These exercises are written in C89, so they may not be compiled by some newer compiler)
 
 Topics:
-+ Introduction 
-+ If-Else
++ Introduction (variables, arithmetic)
++ Condition (If-Else)
 + Iteration (While-For-Do while)
-+ String manipulation
++ String manipulation (string.h)
++ Struct
++ Pointers
++ Functions
++ Lists
++ File
