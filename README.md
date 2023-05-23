@@ -1,8 +1,6 @@
 # info1
 Collection of exercises of "Fondamenti di Informatica", first course of programming at Politecnico di Milano.
 
-You will find the specific of each exercise in the first comment.
-
 (These exercises are written in C89, so they may not be compiled by some newer compiler)
 
 Topics:
