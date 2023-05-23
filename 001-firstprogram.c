@@ -1,5 +1,3 @@
-//Write "Hello world" in output
-
 #include <stdio.h>
 
 int main () {
