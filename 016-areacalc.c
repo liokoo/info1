@@ -30,7 +30,7 @@ int main(){
           printf("Triangle area is: %f", area);
           break;
       case 2:
-          printf("\ Sside of the square:");
+          printf("\n Sside of the square:");
           scanf("%f", &figure.a);
           area=(float)(figure.a*figure.a);
           printf("Square area is: %f", area);
